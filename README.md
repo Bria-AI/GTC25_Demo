@@ -1,4 +1,4 @@
-# GTC25_Demo
+# Bria Demos - GTC-2025
 
 <br>
 
