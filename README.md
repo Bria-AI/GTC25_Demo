@@ -2,20 +2,24 @@
 
 <br>
 
-## Demo Session 1 - API**
+## Demo Session 1 - API
 
-pipelines:
+**pipelines:**
+
 gtc_demo_api.ipynb
 
-fine-tuning:
+**fine-tuning:**
+
 gtc_demo_fine_tune_api.ipynb
 
-## Demo Session 1 - On-Prem**
+## Demo Session 1 - On-Prem
 
-pipelines:
+**pipelines:**
+
 gtc_demo_on_prem.ipynb
 
-fine-tuning:
+**fine-tuning:**
+
 gtc_demo_fine_tune_on_prem.ipynb
 
 <br>
