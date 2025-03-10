@@ -2,7 +2,7 @@
 <p align="center">
     <img src="./visuals/bria_logo.png" width="200"/>
 </p>
-<br>
+<!-- <br> -->
 
 ## Demo Session 1 - API
 
