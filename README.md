@@ -1,5 +1,7 @@
 # Bria Demos - GTC-2025
-
+<p align="center">
+    <img src="./visuals/bria_logo.png" width="200"/>
+</p>
 <br>
 
 ## Demo Session 1 - API
