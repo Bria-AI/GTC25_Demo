@@ -4,6 +4,12 @@
 </p>
 <!-- <br> -->
 
+Make sure to have all required packages installed:
+```
+pip install -r requirements.txt
+```
+
+
 ## Demo Session 1 - API
 
 - [Build visaul Gen-AI tools with Bria's API](gtc_demo_api.ipynb)
