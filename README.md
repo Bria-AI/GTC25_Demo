@@ -6,14 +6,14 @@
 
 ## Demo Session 1 - API
 
-- [Use Bria's API to implement visaul Gen-AI](gtc_demo_api.ipynb)
-- [Use Bria's API to fine-tune a Tailored-Generation model](gtc_demo_fine_tune_api.ipynb)
+- [Build visaul Gen-AI tools with Bria's API](gtc_demo_api.ipynb)
+- [Fine-tune a Tailored-Generation model with Bria's API](gtc_demo_fine_tune_api.ipynb)
 
 
-## Demo Session 1 - On-Prem
+## Demo Session 2 - On-Prem
 
-- [Use Bria's models on-prem to implement visaul Gen-AI](gtc_demo_on_prem.ipynb)
-- [Use Bria's models on-prem to fine-tune a Tailored-Generation model](gtc_demo_fine_tune_on_prem.ipynb)
+- [Build visaul Gen-AI tools using Bria's models on-prem](gtc_demo_on_prem.ipynb)
+- [Fine-tune a Tailored-Generation model with Bria's models on-prem](gtc_demo_fine_tune_on_prem.ipynb)
 
 
 <br>
