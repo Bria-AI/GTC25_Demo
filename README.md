@@ -1,6 +1,7 @@
 # Bria Demos - GTC-2025
 <p align="center">
     <img src="./visuals/bria_logo.png" width="200"/>
+    [Bria Platform](platform.bria.ai)
 </p>
 <!-- <br> -->
 
