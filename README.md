@@ -20,6 +20,8 @@ Requires a BRIA API token through registration: https://go.bria.ai/4bsFO3f (Regi
 
 ## Demo Session 2 - On-Prem
 
+Nodel access requires subscription: https://platform.bria.ai/console/models/access-models
+
 - [Build visaul Gen-AI tools using Bria's model weights](gtc_demo_on_prem.ipynb)
 - [Fine-tune a Tailored-Generation model with Bria's model weights](gtc_demo_fine_tune_on_prem.ipynb)
 
