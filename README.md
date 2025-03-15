@@ -18,8 +18,8 @@ pip install -r requirements.txt
 
 ## Demo Session 2 - On-Prem
 
-- [Build visaul Gen-AI tools using Bria's models on-prem](gtc_demo_on_prem.ipynb)
-- [Fine-tune a Tailored-Generation model with Bria's models on-prem](gtc_demo_fine_tune_on_prem.ipynb)
+- [Build visaul Gen-AI tools using Bria's model weights](gtc_demo_on_prem.ipynb)
+- [Fine-tune a Tailored-Generation model with Bria's model weights](gtc_demo_fine_tune_on_prem.ipynb)
 
 
 <br>
