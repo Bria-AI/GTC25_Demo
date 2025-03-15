@@ -12,6 +12,9 @@ pip install -r requirements.txt
 
 ## Demo Session 1 - API
 
+Requires a BRIA API token through registration: https://go.bria.ai/4bsFO3f
+* Registration includes first 1000 complimentary API calls.
+
 - [Build visaul Gen-AI tools with Bria's API](gtc_demo_api.ipynb)
 - [Fine-tune a Tailored-Generation model with Bria's API](gtc_demo_fine_tune_api.ipynb)
 
